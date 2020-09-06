@@ -1,1 +1,3 @@
 # Employee_Network
+
+This project focuses on going through the process of importing and analyzing an internal email communication network between employees of a mid-sized manufacturing company. Each node represents an employee and each directed edge between two nodes represents an individual email. The left node represents the sender and the right node represents the recipient. The goal is to visualize and interpret the flow of information within the company and discover critical information liasons and interpret what the flow of information represents in the organizational structure of the business.
